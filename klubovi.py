@@ -1,1 +1,1 @@
-print("U ovom repozitoriju se nalaze datoteke real,barca i juventus")
+print("U ovom repozitoriju se nalaze datoteke real i barca")
